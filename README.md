@@ -10,7 +10,7 @@ With over five years of experience in building cross-platform applications, I sp
 * ✉️  You can contact me at [Youssef.abidup@gmail.com](mailto:Youssef.abidup@gmail.com)
 * 🧠  I'm learning c++
 * 🤝  I'm open to collaborating on any project with hight complexcity
-* ⚡  I am how I am ... but don't tell anyone xD
+* ⚡  I am who I am ... but don't tell anyone xD
 
 <a href="https://www.github.com/youssefAbidUp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/youssefAbidUp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
